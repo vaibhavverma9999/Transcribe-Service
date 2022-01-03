@@ -1,3 +1,3 @@
 # Transcribe-Service
 
-Android application to transcribe audio received using microphone to text and display it in real time.
+Android application to transcribe audio received using microphone and display it in real time.
